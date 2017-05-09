@@ -1,7 +1,7 @@
-title: Web
+title: Mladí Piráti
 description: Web mladipirati.cz
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-leap-day
 
 gems:
